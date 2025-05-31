@@ -26,7 +26,7 @@ A real-time web chat application built with **Flask** and **Socket.IO**. This pr
     1. **Clone the repo**
 
         https://github.com/AmanSg098/Individual_Structured_Projects.git
-        cd flask-chat-app
+        cd Individual_Structured_Projects\Flask_chat_app
 
     2. **Create a virtual environment (optional but recommended)**
 
